@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.main{
+    width: 100%;
+    height: 100%;
+}
+
+.header{
+    width: 100%;
+    height: 25%;
+    font-size: 14px;
+    /* border: 2px solid black; */
+    padding: 10px;
+}
+
+img{
+    width: 170px;
+    height: 100px;
+    position: relative;
+    left: 75%;
+    bottom: 35%;
+}
+button{
+    background-color: blue;
+    color: white;
+    width: 130px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    position: relative;
+    bottom: 48%;
+    left: 10px;
+}
+
+.sec1{
+    width: 100%;
+    height: 25%;
+    /* border: 2px solid black; */
+    padding: 20px;
+
+
+
+}
+
+.box{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 26, 255, 0.432);
+    border-radius: 20px;
+}
+#b1{
+    position: relative;
+    left: 5px;
+    width: 100px;
+    height: 100px;
+    top: 3px;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.bclass{
+    position: relative;
+    left: 75%;
+    bottom: 90%;
+    font-size: 22px;
+}
+
+.bclass2{
+
+    font-size: 29px;
+
+}
+
+.sec2{
+    width: 100%;
+    height: 25%;
+    /* border: 2px solid black; */
+    padding: 10px;  
+    display: flex;
+}
+
+.box1{
+    width: 150px;
+    height: 120px;
+    background-color: white;
+    margin-right: 100px;
+    position: relative;
+    top: 0%;
+    left: 250px;
+}
+
+.one{
+ background-image: url('/assests/img/fever.webp');
+ background-size: cover;
+ font-size: 20px;
+ text-align: left;
+}
+.two{
+    background-image: url('/assests/img/Cold.webp');
+    background-size: cover;
+    font-size: 20px;
+    text-align: left;
+}
+.three{
+    background-image: url('/assests/img/cough.png');
+    background-size: cover;
+    font-size: 20px;
+    text-align: left;
+}
+
+.footer{
+    width: 100%;
+    height: 25%;
+    /* border: 2px solid black; */
+    display: flex;
+    padding: 10px;
+}
+
+#doc{
+    position: relative;
+    left: -60px;
+    top: 40px;
+    width: 80px;
+    height: 80px;
+}
+
+.cont1{
+    position: relative;
+    left: 400px;
+    font-size: 25px;
+   
+}
+#vcont1{
+    position: relative;
+    left: 80px;
+    top: 40px;
+    font-size: 20px;
+
+}
+
+.bone{
+    position: relative;
+    left: -425px;
+    top: 80px;
+}
